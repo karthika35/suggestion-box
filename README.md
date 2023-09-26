@@ -2,15 +2,11 @@
 Spring boot application which users can input there team lunch suggestion and choose random restaurant
 
  ## suggestion Box Frontend
- ReactJs
+ - ReactJs
 
  ## suggestion Box Backend
 - SpringBoot
 - H2 DB
 
 
-
-
-
-
-  copyrights @karthika
+copyrights @karthika
