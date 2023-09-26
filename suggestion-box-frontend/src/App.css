@@ -1,0 +1,68 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 80px;
+}
+
+.App-header {
+    background-color: steelblue;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.App-title {
+    font-size: 1.5em;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.view-panel {
+    background-color: white;
+    height: 200px;
+    padding: 20px;
+    color: white;
+}
+
+.viewButton {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    align-items: center;
+}
+
+.content {
+    text-align: center;
+    padding-top: 10%;
+    font-weight: bold;
+    font-size: 200%;
+    color: steelblue;
+}
+
+.title {
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 150%;
+    color: steelblue;
+
+
+}
+.containerResult{
+    margin-top: 50px;
+}
+
+.footer{
+    height: 60px;
+    padding-top: 2px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: steelblue;
+    margin-top: 320px;
+    color: white;
+}
+
+
